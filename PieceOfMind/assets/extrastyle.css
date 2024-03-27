@@ -1,0 +1,6 @@
+.col-3, .col-6{{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: #d5c3ac;
+}}
